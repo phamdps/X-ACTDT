@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚦 Autonomous Cognitive Transportation Digital Twin (ACT-DT)
+# 🚦 Autonomous Cognitive Transportation Digital Twin
 
 </div>
 
