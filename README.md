@@ -1,8 +1,21 @@
 <div align="center">
 
-# 🚦 Autonomous Cognitive Transportation Digital Twin
+# 🚦 X-ACTDT
 
 </div>
+
+**E**xplainable **A**utonomous **C**ognitive **T**ransportation **D**igital **T**win (**X-ACTDT**) is an advanced framework for next-generation transportation digital twins that bridges the gap between static simulation and adaptive, real-time urban management. By seamlessly integrating state-of-the-art machine learning paradigms, the system delivers secure, self-updating, and audit-ready intelligence for complex transportation networks.
+
+## 🚀 Core Technical Pillars
+
+* **[X] Explainability via MLLMs:** Utilizing explainable multimodal large language models (MLLMs) for transparent cross-modal synthesis and audit-ready intelligence.
+* **[A] Autonomous Control:** Empowering self-governing agents to manage dynamic traffic environments without constant human intervention.
+* **[C] Cognitive Intelligence:** Powered by a comprehensive cognitive suite—integrating **Reinforcement Learning** for optimal policy control and decision-making, **Continual Learning** to prevent catastrophic forgetting in non-stationary environments, and **Meta-Learning** for dynamic meta-feature extraction and model routing.
+* **[T] Transportation Domain:** Designed specifically for complex, large-scale urban traffic and mobility networks.
+* **[DT] Digital Twin Architecture:** Operating at **Level Autonomy**—evolving far beyond passive visualization or simulation into an active, self-optimizing closed-loop twin that dynamically enacts intelligent control policies on physical transportation systems.
+
+---
+
 
 A cutting-edge architecture for next-generation transportation digital twins, integrating **Reinforcement Learning (RL)**, **Continual Learning (CL)**, **Meta-Learning**, and **Explainable Multimodal Large Language Models (MLLMs)**.
 
@@ -12,7 +25,13 @@ A cutting-edge architecture for next-generation transportation digital twins, in
 
 ---
 
-Autonomous cognitive transportation digital twins (ACTDT) is an advanced framework for next-generation transportation digital twins that bridges the gap between static simulation and adaptive, real-time urban management. By seamlessly integrating reinforcement learning for optimal policy control, continual learning to prevent catastrophic forgetting in non-stationary environments, meta-learning for dynamic meta-feature extraction and model routing, and explainable multimodal large language models (MLLMs) for transparent cross-modal synthesis, the system delivers secure, self-updating, and audit-ready intelligence for complex transportation networks.
+> **Explainable Autonomous Cognitive Transportation Digital Twins (X-ACTDT)** is a next-generation framework designed to transition urban management from static simulation to adaptive and cognitive control. The architecture achieves secure, audit-ready intelligence through four core pillars:
+> * **Optimal Policy Control:** Powered by reinforcement learning.
+> * **Non-Stationary Adaptation:** Using continual learning to eliminate catastrophic forgetting.
+> * **Dynamic Model Routing:** Leveraging meta-learning for advanced meta-feature extraction.
+> * **Transparent Synthesis:** Utilizing explainable multimodal large language models (MLLMs) for cross-modal reasoning.
+> 
+
 
 ## 🏗️ Project Architecture & Structure
 
