@@ -26,7 +26,7 @@ A cutting-edge architecture for next-generation transportation digital twins, in
 
 ---
 
-> **Explainable Autonomous Cognitive Transportation Digital Twins (X-ACTDT)** is a next-generation framework designed to transition urban management from static simulation to adaptive and cognitive control. The architecture achieves secure, audit-ready intelligence through four core pillars:
+> **Explainable Autonomous Cognitive Transportation Digital Twins (X-ACTDT)** is a next-generation framework designed to transition urban management from static simulation to adaptive and cognitive control. The architecture achieves secure, audit-ready intelligence through:
 > * **Optimal Policy Control:** Powered by reinforcement learning.
 > * **Non-Stationary Adaptation:** Using continual learning to eliminate catastrophic forgetting.
 > * **Dynamic Model Routing:** Leveraging meta-learning for advanced meta-feature extraction.
