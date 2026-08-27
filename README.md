@@ -4,13 +4,15 @@
 
 </div>
 
-A cutting-edge architecture for next-generation transportation digital twins, integrating **Reinforcement Learning (RL)**, **Continual Learning (CL)**, **Meta-Learning**, and **Explainable Multimodal Large Models (MLLMs)**.
+A cutting-edge architecture for next-generation transportation digital twins, integrating **Reinforcement Learning (RL)**, **Continual Learning (CL)**, **Meta-Learning**, and **Explainable Multimodal Large Language Models (MLLMs)**.
 
 <p align="center">
   <img src="assets/architecture.png" alt="Cognitive Transportation Digital Twin Architecture Overview" width="800"/>
 </p>
 
 ---
+
+Autonomous cognitive transportation digital twins (ACTDT) is an advanced framework for next-generation transportation digital twins that bridges the gap between static simulation and adaptive, real-time urban management. By seamlessly integrating reinforcement learning for optimal policy control, continual learning to prevent catastrophic forgetting in non-stationary environments, meta-learning for dynamic meta-feature extraction and model routing, and explainable multimodal large language models (MLLMs) for transparent cross-modal synthesis, the system delivers secure, self-updating, and audit-ready intelligence for complex transportation networks.
 
 ## 🏗️ Project Architecture & Structure
 
