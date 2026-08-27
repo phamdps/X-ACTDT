@@ -17,6 +17,8 @@
 
 ---
 
+## 📚 Core Architecture
+
 
 A cutting-edge architecture for next-generation transportation digital twins, integrating **Reinforcement Learning (RL)**, **Continual Learning (CL)**, **Meta-Learning**, and **Explainable Multimodal Large Language Models (MLLMs)**.
 
