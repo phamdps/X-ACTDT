@@ -1,4 +1,8 @@
-# Autonomous Cognitive Transportation Digital Twin (ACT-DT)
+<div align="center">
+
+# 🚦 Autonomous Cognitive Transportation Digital Twin (ACT-DT)
+
+</div>
 
 A cutting-edge architecture for next-generation transportation digital twins, integrating **Reinforcement Learning (RL)**, **Continual Learning (CL)**, **Meta-Learning**, and **Explainable Multimodal Large Models (MLLMs)**.
 
