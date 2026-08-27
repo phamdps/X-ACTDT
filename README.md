@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚦 X-ACTDT
-## **E**xplainable **A**utonomous **C**ognitive **T**ransportation **D**igital **T**win 
+## An **E**xplainable **A**utonomous **C**ognitive **T**ransportation **D**igital **T**win 
 
 </div>
 
