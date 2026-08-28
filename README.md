@@ -1,11 +1,11 @@
 <div align="center">
 
 # 🚦 X-ACTDT
-## An **E**xplainable **A**utonomous **C**ognitive **T**ransportation **D**igital **T**win 
+## An E**x**plainable **A**utonomous **C**ognitive **T**ransportation **D**igital **T**win 
 
 </div>
 
-**E**xplainable **A**utonomous **C**ognitive **T**ransportation **D**igital **T**win (**X-ACTDT**) is an advanced framework for next-generation transportation digital twins that bridges the gap between static simulation and adaptive, real-time urban management. By seamlessly integrating state-of-the-art machine learning paradigms, the system delivers secure, self-updating, and audit-ready intelligence for complex transportation networks.
+E**X**plainable **A**utonomous **C**ognitive **T**ransportation **D**igital **T**win (**X-ACTDT**) is an advanced framework for next-generation transportation digital twins that bridges the gap between static simulation and adaptive, real-time urban management. By seamlessly integrating state-of-the-art machine learning paradigms, the system delivers secure, self-updating, and audit-ready intelligence for complex transportation networks.
 
 ## 🚀 Core Technical Pillars
 
