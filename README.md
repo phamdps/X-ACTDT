@@ -23,7 +23,7 @@
 A cutting-edge architecture for next-generation transportation digital twins, integrating **Reinforcement Learning (RL)**, **Continual Learning (CL)**, **Meta-Learning**, and **Explainable Multimodal Large Language Models (MLLMs)**.
 
 <p align="center">
-  <img src="assets/architecture.png" alt="Cognitive Transportation Digital Twin Architecture Overview" width="800"/>
+  <img src="assets/autonomous_cognitive_transportation.gif" alt="Cognitive Transportation Digital Twin Architecture Overview" width="800"/>
 </p>
 
 ---
