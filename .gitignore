@@ -94,3 +94,5 @@ outputs/
 # Extra files
 xrefs/
 docs/
+data/
+processing/
