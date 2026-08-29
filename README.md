@@ -35,6 +35,11 @@ A cutting-edge architecture for next-generation transportation digital twins, in
 > * **Transparent Synthesis:** Utilizing explainable multimodal large language models (MLLMs) for cross-modal reasoning.
 > 
 
+A live demonstration of our Explainable Autonomous Cognitive Transportation Digital Twin, highlighting how cognitive modeling and real-time visualization empower safer, more transparent AI-driven traffic systems.
+
+<p align="center">
+  <img src="assets/explainable.gif" alt="Explainable Autonomous Cognitive Transportation Digital Twin" width="800"/>
+</p>
 
 ## 🏗️ Project Architecture & Structure
 
