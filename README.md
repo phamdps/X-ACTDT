@@ -41,7 +41,17 @@ A live demonstration of our Explainable Autonomous Cognitive Transportation Digi
   <img src="assets/explainable.gif" alt="Explainable Autonomous Cognitive Transportation Digital Twin" width="800"/>
 </p>
 
-## 🏗️ Project Architecture & Structure
+## 🏗️ Multimodal Selection
+
+Selecting an optimal multimodal foundation model remains a fundamental challenge in transportation digital twins, primarily because no single architecture natively excels across text, time series, video streams, and graph topologies. Each modality demands specialized mathematical formalisms and inductive biases—sequential semantics for text, temporal dependencies for time-series sensor data, spatial representations for imagery, and relational structures for transit networks. Consequently, a rigid, one-size-fits-all framework often compromises performance by failing to accommodate these heterogeneous data characteristics simultaneously.
+
+<p align="center">
+  <img src="assets/multimodal_selection.gif" alt="Multimodal Selection for A Transportation Digital Twin" width="800"/>
+</p>
+
+As illustrated in the above figure, architecture selection must be rigorously tailored to the target transportation use case. When standard off-the-shelf designs prove insufficient, custom models can be engineered from scratch using neural architecture search (NAS) or automated network growth methodologies (for more details, visit the [greenmoo](https://github.com/phamdps/greenmoo)).
+
+## 📌 Project Architecture & Structure
 
 ```text
 cognitive_transdt/
