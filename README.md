@@ -83,7 +83,13 @@ While cognitive capabilities enable a digital twin to understand intentions and 
 
 * Agent-based Reasoning and Adaptive Learning
 
+Agent-based reasoning allows the digital twin with a modular structure capable of acting intelligently in complex environments. Each agent embodies autonomy, perception, reasoning, and learning, functioning as both a decision-maker and an executor of management tasks. Within a digital twin system, agents perceive environmental inputs, analyze contextual information, generate management plans, and execute actions through interactions with the underlying physical or simulated systems. Reinforcement and continual learning further allow these agents to refine strategies from experience and coordinate with others in multi-agent settings.
+
 * Self-Optimization and Closed-Loop Control
+
+Self-optimization is the culmination of autonomous management, where digital twins no longer rely on external commands but continuously refine their performance through closed-loop feedback. The system observes its own behavior, identifies inefficiencies, and implements corrective actions automatically.When combined with predictive and cognitive capabilities, closed-loop control transforms the twin into an autonomous entity capable of sustaining optimal performance with minimal supervision.
+
+Further information for this step will be clarified in the [ai-assistant](https://github.com/phamdps/ai-assistant) repository.
 
 ---
 
