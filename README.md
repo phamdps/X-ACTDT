@@ -65,7 +65,7 @@ Selecting an optimal multimodal foundation model remains a fundamental challenge
 
 As shown in the figure above—which provides a general example rather than a complete set of options—choosing an architecture has historically depended on human expertise to tailor models to specific tasks. While manual designs provide strong general-purpose baselines, they might be not sufficient when apply to specialized or domain specific modalities. Thus, rather than depending on rigid, single-instance selections when conventional designs prove insufficient, it is crucial to iteratively update and optimize these models. Automated approaches such as neural architecture search or network growth techniques can be used to extend or improve the existing solutions (learn more at [greenmoo](https://github.com/phamdps/greenmoo)).
 
-## 🌐 Interpretable Demand
+## 🌐 Explainable and Interpretable Demand
 
 An example of a multimodal model in a digital twin is Qwen2-VL, whose architecture is illustrated below:
 
