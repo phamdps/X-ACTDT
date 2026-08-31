@@ -65,15 +65,15 @@ Selecting an optimal multimodal foundation model remains a fundamental challenge
 
 As shown in the figure above—which provides a general example rather than a complete set of options—choosing an architecture has historically depended on human expertise to tailor models to specific tasks. While manual designs provide strong general-purpose baselines, they often fall short when applied to specialized, complex, or diverse data. Consequently, it is vital to continually update and refine these models rather than relying on static, one-off selections. When existing standard designs fall short, automated approaches such as neural architecture search or network growth techniques can yield superior, customized solutions (learn more at [greenmoo](https://github.com/phamdps/greenmoo)).
 
-## Explainable Demand
+## 🌐 Interpretable Demand
 
-An example of multimodal in transportation digital twin is Qwen2-VL, the architecture is as follows:
+An example of a multimodal model in a digital twin is Qwen2-VL, whose architecture is illustrated below:
 
 <p align="center">
   <img src="assets/qwen2-VL_architecture.gif" alt="Multimodal Selection for A Transportation Digital Twin" width="800"/>
 </p>
 
-It is necessary to dive into the architecture of each multimodal to explore how it works and how it give reasoning for the system. So that any decicion is transparency. Further information about multimodal explainability is in the [explainable-fm](https://github.com/phamdps/explainable-fm). In addition, want to dive into the operation of the MLLMs, then go to [MLLMs](https://github.com/phamdps/MLLMs).
+Examining the architecture of each multimodal model is essential to understanding its internal mechanics and how it generates system reasoning, ensuring transparency in all decision-making processes. For further details on multimodal explainability, visit [explainable-fm](https://github.com/phamdps/explainable-fm). To dive deeper into the operational mechanics of Multimodal Large Language Models (MLLMs), check out [MLLMs](https://github.com/phamdps/MLLMs).
 
 ## 📌 Project Architecture & Structure
 
