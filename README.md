@@ -26,14 +26,28 @@ A cutting-edge architecture for next-generation transportation digital twins, in
   <img src="assets/autonomous_cognitive_transportation.gif" alt="Cognitive Transportation Digital Twin Architecture Overview" width="800"/>
 </p>
 
+### Phases 1–3: From Real-World Data to a Live Digital Twin
+
+The first three phases establish the foundation of the Explainable Autonomous Cognitive Transportation Digital Twin (AC-TDT) by transforming observations of the physical transportation environment into a continuously updated virtual representation. Phase 1 — Data Collection gathers heterogeneous observations from road networks, traffic sensors, signals, transit systems, vehicles, incidents, weather, mobility demand, infrastructure, events, and environmental sources while preserving their spatial, temporal, quality, and provenance information. Phase 2 — Data Ingestion and Integration validates, standardizes, synchronizes, georeferences, harmonizes, and fuses these heterogeneous observations into a consistent and trustworthy data environment. Phase 3 — Digital Twin Engine uses the integrated information to maintain a live, dynamic, spatiotemporal model of the transportation system, representing roads, traffic, transit, signals, incidents, demand, weather, infrastructure, and environmental conditions. Together, Phases 1–3 transform raw observations into a synchronized and traceable digital representation of reality that provides the trusted foundation for cognitive reasoning, prediction, and autonomous decision-making.
+
+### Phases 4–6: From Understanding to Decision and Action
+
+The next three phases transform the live digital twin into an intelligent decision-making and intervention system. Phase 4 — Cognitive AI interprets the current transportation state by combining information from multiple sources, performing spatial-temporal reasoning, detecting anomalies and incidents, forecasting traffic and travel demand, exploring alternative scenarios, and generating explainable insights with associated confidence levels. Phase 5 — Decision evaluates possible responses against operational objectives, safety requirements, policies, constraints, resources, and predicted outcomes, selecting the most appropriate action while maintaining a traceable explanation of why that decision was chosen. Phase 6 — Action/Intervention converts the selected decision into executable operational commands, validates them for safety and feasibility, and dispatches them to real-world transportation systems such as traffic signals, variable message signs, transit operations, routing systems, infrastructure controls, and traveler-information platforms. Together, Phases 4–6 transform the digital twin from a representation of the transportation system into an explainable autonomous intelligence capable of understanding situations, selecting appropriate interventions, and initiating real-world action.
+
+### Phases 7–9: From Real-World Execution to Continuous Learning
+
+The final three phases close the autonomous learning loop by determining what actually happened after an intervention and using the results to improve future operations. Phase 7 — Real-World Execution deploys the selected intervention through transportation agencies, traffic-control systems, transit operators, infrastructure systems, connected vehicles, and traveler-information services, while recording what was actually implemented and when. Phase 8 — Monitor and Measure continuously observes the transportation environment after the intervention and evaluates its effects using mobility, safety, reliability, sustainability, equity, and user-experience indicators, comparing actual outcomes against objectives, baselines, and expected results. Phase 9 — Feedback and Learning analyzes these results to identify successes, shortcomings, causal factors, new patterns, and uncertainties, then updates AI models, digital-twin parameters, knowledge bases, decision policies, and intervention strategies. The resulting knowledge is fed back into the earlier phases, creating a closed-loop AC-TDT that continuously observes, understands, decides, acts, measures, learns, and improves while maintaining traceability and explainability throughout the entire operational cycle.
+
 ---
 
-> **Explainable Autonomous Cognitive Transportation Digital Twins (X-ACTDT)** is a next-generation framework designed to transition urban management from static simulation to adaptive and cognitive control. The architecture achieves secure, audit-ready intelligence through:
-> * **Optimal Policy Control:** Powered by reinforcement learning.
-> * **Non-Stationary Adaptation:** Using continual learning to eliminate catastrophic forgetting.
-> * **Dynamic Model Routing:** Leveraging meta-learning for advanced meta-feature extraction.
-> * **Transparent Synthesis:** Utilizing explainable multimodal large language models (MLLMs) for cross-modal reasoning.
-> 
+## 📖 Beyond Black Boxes: The Explainable Necessity in Autonomous Transportation
+
+**Explainable Autonomous Cognitive Transportation Digital Twins (X-ACTDT)** is a next-generation framework designed to transition urban management from static simulation to adaptive and cognitive control. The architecture achieves secure, audit-ready intelligence through:
+* **Optimal Policy Control:** Powered by reinforcement learning.
+* **Non-Stationary Adaptation:** Using continual learning to eliminate catastrophic forgetting.
+* **Dynamic Model Routing:** Leveraging meta-learning for advanced meta-feature extraction.
+* **Transparent Synthesis:** Utilizing explainable multimodal large language models (MLLMs) for cross-modal reasoning.
+
 
 A live demonstration of our Explainable Autonomous Cognitive Transportation Digital Twin, highlighting how cognitive modeling and real-time visualization empower safer, more transparent AI-driven traffic systems.
 
@@ -43,13 +57,23 @@ A live demonstration of our Explainable Autonomous Cognitive Transportation Digi
 
 ## 🏗️ Multimodal Selection
 
-Selecting an optimal multimodal foundation model remains a fundamental challenge in transportation digital twins, primarily because no single architecture natively excels across text, time series, video streams, and graph topologies. Each modality demands specialized mathematical formalisms and inductive biases—sequential semantics for text, temporal dependencies for time-series sensor data, spatial representations for imagery, and relational structures for transit networks. Consequently, a rigid, one-size-fits-all framework often compromises performance by failing to accommodate these heterogeneous data characteristics simultaneously.
+Selecting an optimal multimodal foundation model remains a fundamental challenge in transportation digital twins, Traditionally, a single architecture struggled to excel simultaneously across text, time series, video streams, and graph topologies because each modality demands distinct mathematical formalisms—such as sequential semantics for text, temporal dependencies for time series, spatial representations for video, and relational structures for transit networks. However, modern foundation models increasingly overcome these boundaries by projecting diverse modalities into a unified embedding space, mitigating the performance compromises once inherent in rigid, siloed frameworks.
 
 <p align="center">
   <img src="assets/multimodal_selection.gif" alt="Multimodal Selection for A Transportation Digital Twin" width="800"/>
 </p>
 
-As illustrated in the above figure, architecture selection must be rigorously tailored to the target transportation use case. When standard off-the-shelf designs prove insufficient, custom models can be engineered from scratch using neural architecture search (NAS) or automated network growth methodologies (for more details, visit the [greenmoo](https://github.com/phamdps/greenmoo)).
+As shown in the figure above—which provides a general example rather than a complete set of options—choosing an architecture has historically depended heavily on human expertise to fit models to specific tasks. Since manual designs often fail to handle complex or diverse data well, it is vital to continually update and refine these models instead of depending on static, single choices. When existing designs fall short, custom alternatives can be developed using neural architecture search or network growth techniques (learn more at [greenmoo](https://github.com/phamdps/greenmoo)).
+
+## Explainable Demand
+
+An example of multimodal in transportation digital twin is Qwen2-VL, the architecture is as follows:
+
+<p align="center">
+  <img src="assets/qwen2-VL_architecture.gif" alt="Multimodal Selection for A Transportation Digital Twin" width="800"/>
+</p>
+
+It is necessary to dive into the architecture of each multimodal to explore how it works and how it give reasoning for the system. So that any decicion is transparency. Further information about multimodal explainability is in the [explainable-fm](https://github.com/phamdps/explainable-fm). In addition, want to dive into the operation of the MLLMs, then go to [MLLMs](https://github.com/phamdps/MLLMs).
 
 ## 📌 Project Architecture & Structure
 
