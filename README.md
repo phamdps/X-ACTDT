@@ -75,6 +75,18 @@ An example of a multimodal model in a digital twin is Qwen2-VL, whose architectu
 
 Examining the architecture of each multimodal model is essential to understanding its internal mechanics and how it generates system reasoning, ensuring transparency in all decision-making processes. For further details on multimodal explainability, visit [explainable-fm](https://github.com/phamdps/explainable-fm). To dive deeper into the operational mechanics of Multimodal Large Language Models (MLLMs), check out [MLLMs](https://github.com/phamdps/MLLMs).
 
+---
+
+## 🧠 Enabling Autonomous Decision and Planning
+
+While cognitive capabilities enable a digital twin to understand intentions and perceive the system state, autonomous management further requires the capacity to make decisions, plan actions, and adapt to changing conditions without explicit human intervention. This section discusses how agent-based reasoning and adaptive learning provide the mechanism for decision-making, and how self-optimization and closed-loop control complete the cycle of autonomous management.
+
+* Agent-based Reasoning and Adaptive Learning
+
+* Self-Optimization and Closed-Loop Control
+
+---
+
 ## 📌 Project Architecture & Structure
 
 ```text
