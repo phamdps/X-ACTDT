@@ -87,7 +87,8 @@ Agent-based reasoning allows the digital twin with a modular structure capable o
 
 * Self-Optimization and Closed-Loop Control
 
-Self-optimization is the culmination of autonomous management, where digital twins no longer rely on external commands but continuously refine their performance through closed-loop feedback. The system observes its own behavior, identifies inefficiencies, and implements corrective actions automatically.When combined with predictive and cognitive capabilities, closed-loop control transforms the twin into an autonomous entity capable of sustaining optimal performance with minimal supervision.
+Self-optimization is the culmination of autonomous management, where digital twins no longer rely on external commands but continuously refine their performance through closed-loop feedback. The system observes its own behavior, identifies inefficiencies, and implements corrective actions automatically.
+When combined with predictive and cognitive capabilities, closed-loop control transforms the twin into an autonomous entity capable of sustaining optimal performance with minimal supervision.
 
 Further information for this step will be clarified in the [ai-assistant](https://github.com/phamdps/ai-assistant) repository.
 
