@@ -15,8 +15,6 @@ E**X**plainable **A**utonomous **C**ognitive **T**ransportation **D**igital **T*
 * **[T] Transportation Domain:** Designed specifically for complex, large-scale urban traffic and mobility networks.
 * **[DT] Digital Twin Architecture:** Operating at **Level Autonomy**—evolving far beyond passive visualization or simulation into an active, self-optimizing closed-loop twin that dynamically enacts intelligent control policies on physical transportation systems.
 
----
-
 ## 📚 Core Architecture
 
 
@@ -28,19 +26,47 @@ A cutting-edge architecture for next-generation transportation digital twins, in
 
 ### Phases 1–3: From Real-World Data to a Live Digital Twin
 
-The first three phases establish the foundation of the Explainable Autonomous Cognitive Transportation Digital Twin (X-ACTDT) by transforming observations of the physical transportation environment into a continuously updated virtual representation. Phase 1 — Data Collection gathers heterogeneous observations from road networks, traffic sensors, signals, transit systems, vehicles, incidents, weather, mobility demand, infrastructure, events, and environmental sources while preserving their spatial, temporal, quality, and provenance information. Phase 2 — Data Ingestion and Integration validates, standardizes, synchronizes, georeferences, harmonizes, and fuses these heterogeneous observations into a consistent and trustworthy data environment. Phase 3 — Digital Twin Engine uses the integrated information to maintain a live, dynamic, spatiotemporal model of the transportation system, representing roads, traffic, transit, signals, incidents, demand, weather, infrastructure, and environmental conditions. Together, Phases 1–3 transform raw observations into a synchronized and traceable digital representation of reality that provides the trusted foundation for cognitive reasoning, prediction, and autonomous decision-making.
+The first three phases establish the foundation of the Explainable Autonomous Cognitive Transportation Digital Twin (X-ACTDT) by transforming observations of the physical transportation environment into a continuously updated virtual representation.
+
+* Phase 1 — Data Collection gathers heterogeneous observations from road networks, traffic sensors, signals, transit systems, vehicles, incidents, weather, mobility demand, infrastructure, events, and environmental sources while preserving their spatial, temporal, quality, and provenance information.
+
+* Phase 2 — Data Ingestion and Integration validates, standardizes, synchronizes, georeferences, harmonizes, and fuses these heterogeneous observations into a consistent and trustworthy data environment. 
+
+* Phase 3 — Digital Twin Engine uses the integrated information to maintain a live, dynamic, spatiotemporal model of the transportation system, representing roads, traffic, transit, signals, incidents, demand, weather, infrastructure, and environmental conditions. 
+
+Together, Phases 1–3 transform raw observations into a synchronized and traceable digital representation of reality that provides the trusted foundation for cognitive reasoning, prediction, and autonomous decision-making.
 
 ### Phases 4–6: From Understanding to Decision and Action
 
-The next three phases transform the live digital twin into an intelligent decision-making and intervention system. Phase 4 — Cognitive AI interprets the current transportation state by combining information from multiple sources, performing spatial-temporal reasoning, detecting anomalies and incidents, forecasting traffic and travel demand, exploring alternative scenarios, and generating explainable insights with associated confidence levels. Phase 5 — Decision evaluates possible responses against operational objectives, safety requirements, policies, constraints, resources, and predicted outcomes, selecting the most appropriate action while maintaining a traceable explanation of why that decision was chosen. Phase 6 — Action/Intervention converts the selected decision into executable operational commands, validates them for safety and feasibility, and dispatches them to real-world transportation systems such as traffic signals, variable message signs, transit operations, routing systems, infrastructure controls, and traveler-information platforms. Together, Phases 4–6 transform the digital twin from a representation of the transportation system into an explainable autonomous intelligence capable of understanding situations, selecting appropriate interventions, and initiating real-world action.
+The next three phases transform the live digital twin into an intelligent decision-making and intervention system. 
+
+* Phase 4 — Cognitive AI interprets the current transportation state by combining information from multiple sources, performing spatial-temporal reasoning, detecting anomalies and incidents, forecasting traffic and travel demand, exploring alternative scenarios, and generating explainable insights with associated confidence levels. 
+* Phase 5 — Decision evaluates possible responses against operational objectives, safety requirements, policies, constraints, resources, and predicted outcomes, selecting the most appropriate action while maintaining a traceable explanation of why that decision was chosen. 
+* Phase 6 — Action/Intervention converts the selected decision into executable operational commands, validates them for safety and feasibility, and dispatches them to real-world transportation systems such as traffic signals, variable message signs, transit operations, routing systems, infrastructure controls, and traveler-information platforms. 
+
+Together, Phases 4–6 transform the digital twin from a representation of the transportation system into an explainable autonomous intelligence capable of understanding situations, selecting appropriate interventions, and initiating real-world action.
 
 ### Phases 7–9: From Real-World Execution to Continuous Learning
 
-The final three phases close the autonomous learning loop by determining what actually happened after an intervention and using the results to improve future operations. Phase 7 — Real-World Execution deploys the selected intervention through transportation agencies, traffic-control systems, transit operators, infrastructure systems, connected vehicles, and traveler-information services, while recording what was actually implemented and when. Phase 8 — Monitor and Measure continuously observes the transportation environment after the intervention and evaluates its effects using mobility, safety, reliability, sustainability, equity, and user-experience indicators, comparing actual outcomes against objectives, baselines, and expected results. Phase 9 — Feedback and Learning analyzes these results to identify successes, shortcomings, causal factors, new patterns, and uncertainties, then updates AI models, digital-twin parameters, knowledge bases, decision policies, and intervention strategies. The resulting knowledge is fed back into the earlier phases, creating a closed-loop AC-TDT that continuously observes, understands, decides, acts, measures, learns, and improves while maintaining traceability and explainability throughout the entire operational cycle.
+The final three phases close the autonomous learning loop by determining what actually happened after an intervention and using the results to improve future operations. 
+
+* Phase 7 — Real-World Execution deploys the selected intervention through transportation agencies, traffic-control systems, transit operators, infrastructure systems, connected vehicles, and traveler-information services, while recording what was actually implemented and when. 
+
+* Phase 8 — Monitor and Measure continuously observes the transportation environment after the intervention and evaluates its effects using mobility, safety, reliability, sustainability, equity, and user-experience indicators, comparing actual outcomes against objectives, baselines, and expected results. 
+
+* Phase 9 — Feedback and Learning analyzes these results to identify successes, shortcomings, causal factors, new patterns, and uncertainties, then updates AI models, digital-twin parameters, knowledge bases, decision policies, and intervention strategies. 
+
+The resulting knowledge is fed back into the earlier phases, creating a closed-loop AC-TDT that continuously observes, understands, decides, acts, measures, learns, and improves while maintaining traceability and explainability throughout the entire operational cycle.
 
 ---
 
-## 📖 Beyond Black Boxes: The Explainable Necessity in Autonomous Transportation
+# 📌 Key Considerations
+
+---
+
+## 📖 Beyond Black Boxes
+
+The Explainable Necessity in Autonomous Transportation:
 
 **Explainable Autonomous Cognitive Transportation Digital Twins (X-ACTDT)** is a next-generation framework designed to transition urban management from static simulation to adaptive and cognitive control. The architecture achieves secure, audit-ready intelligence through:
 * **Optimal Policy Control:** Powered by reinforcement learning.
@@ -57,7 +83,9 @@ A live demonstration of our Explainable Autonomous Cognitive Transportation Digi
 
 ## 🏗️ Multimodal Selection
 
-Selecting an optimal multimodal foundation model remains a fundamental challenge in transportation digital twins. Traditionally, a single architecture struggled to excel simultaneously across text, time series, video streams, and graph topologies because each modality demands distinct mathematical formalisms—such as sequential semantics for text, temporal dependencies for time series, spatial representations for video, and relational structures for transit networks. However, modern foundation models increasingly overcome these boundaries by projecting diverse modalities into a unified embedding space, mitigating the performance compromises once inherent in rigid, siloed frameworks.
+Selecting an optimal multimodal foundation model remains a fundamental challenge in transportation digital twins. Traditionally, a single architecture struggled to excel simultaneously across text, time series, video streams, and graph topologies because each modality demands distinct mathematical formalisms—such as sequential semantics for text, temporal dependencies for time series, spatial representations for video, and relational structures for transit networks. 
+
+However, modern foundation models increasingly overcome these boundaries by projecting diverse modalities into a unified embedding space, mitigating the performance compromises once inherent in rigid, siloed frameworks.
 
 <p align="center">
   <img src="assets/multimodal_selection.gif" alt="Multimodal Selection for A Transportation Digital Twin" width="800"/>
@@ -65,9 +93,9 @@ Selecting an optimal multimodal foundation model remains a fundamental challenge
 
 As shown in the figure above—which provides a general example rather than a complete set of options—choosing an architecture has historically depended on human expertise to tailor models to specific tasks. While manual designs provide strong general-purpose baselines, they might be not sufficient when apply to specialized or domain specific modalities. Thus, rather than depending on rigid, single-instance selections when conventional designs prove insufficient, it is crucial to iteratively update and optimize these models. Automated approaches such as neural architecture search or network growth techniques can be used to extend or improve the existing solutions (learn more at [greenmoo](https://github.com/phamdps/greenmoo)).
 
-## 🌐 Explainable and Interpretable Demand
+## 🌐 Exploring Typical Architectures
 
-An example of a multimodal model in a digital twin is Qwen2-VL, whose architecture is illustrated below:
+Evaluating existing multimodal models requires careful consideration of their **explainability and interpretability**. A prime example of such a model applied to a digital twin is Qwen2-VL, with its architecture detailed below:
 
 <p align="center">
   <img src="assets/qwen2-VL_architecture.gif" alt="Multimodal Selection for A Transportation Digital Twin" width="800"/>
@@ -75,26 +103,23 @@ An example of a multimodal model in a digital twin is Qwen2-VL, whose architectu
 
 Examining the architecture of each multimodal model is essential to understanding its internal mechanics and how it generates system reasoning, ensuring transparency in all decision-making processes. For further details on multimodal explainability, visit [explainable-fm](https://github.com/phamdps/explainable-fm). To dive deeper into the operational mechanics of Multimodal Large Language Models (MLLMs), check out [MLLMs](https://github.com/phamdps/MLLMs).
 
----
-
 ## 🧠 Enabling Autonomous Decision and Planning
 
 While cognitive capabilities enable a digital twin to understand intentions and perceive the system state, autonomous management further requires the capacity to make decisions, plan actions, and adapt to changing conditions without explicit human intervention. This section discusses how agent-based reasoning and adaptive learning provide the mechanism for decision-making, and how self-optimization and closed-loop control complete the cycle of autonomous management.
 
-* Agent-based Reasoning and Adaptive Learning
+* Agent-based Reasoning and Adaptive Learning: Agent-based reasoning allows the digital twin with a modular structure capable of acting intelligently in complex environments. Each agent embodies autonomy, perception, reasoning, and learning, functioning as both a decision-maker and an executor of management tasks. Within a digital twin system, agents perceive environmental inputs, analyze contextual information, generate management plans, and execute actions through interactions with the underlying physical or simulated systems. Reinforcement and continual learning further allow these agents to refine strategies from experience and coordinate with others in multi-agent settings.
 
-Agent-based reasoning allows the digital twin with a modular structure capable of acting intelligently in complex environments. Each agent embodies autonomy, perception, reasoning, and learning, functioning as both a decision-maker and an executor of management tasks. Within a digital twin system, agents perceive environmental inputs, analyze contextual information, generate management plans, and execute actions through interactions with the underlying physical or simulated systems. Reinforcement and continual learning further allow these agents to refine strategies from experience and coordinate with others in multi-agent settings.
+<p align="center">
+  <img src="assets/autonomous_agents.png" alt="Enabling Autonomous Decision and Planning for A Transportation Digital Twin" width="800"/>
+</p>
 
-* Self-Optimization and Closed-Loop Control
-
-Self-optimization is the culmination of autonomous management, where digital twins no longer rely on external commands but continuously refine their performance through closed-loop feedback. The system observes its own behavior, identifies inefficiencies, and implements corrective actions automatically.
-When combined with predictive and cognitive capabilities, closed-loop control transforms the twin into an autonomous entity capable of sustaining optimal performance with minimal supervision.
+* Self-Optimization and Closed-Loop Control: Self-optimization is the culmination of autonomous management, where digital twins no longer rely on external commands but continuously refine their performance through closed-loop feedback. The system observes its own behavior, identifies inefficiencies, and implements corrective actions automatically. When combined with predictive and cognitive capabilities, closed-loop control transforms the twin into an autonomous entity capable of sustaining optimal performance with minimal supervision.
 
 Further information for this step will be clarified in the [ai-assistant](https://github.com/phamdps/ai-assistant) repository.
 
 ---
 
-## 📌 Project Architecture & Structure
+# 📌 Project Architecture & Structure
 
 ```text
 cognitive_transdt/
