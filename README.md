@@ -15,6 +15,42 @@ E**X**plainable **A**utonomous **C**ognitive **T**ransportation **D**igital **T*
 * **[T] Transportation Domain:** Designed specifically for complex, large-scale urban traffic and mobility networks.
 * **[DT] Digital Twin Architecture:** Operating at **Level Autonomy**—evolving far beyond passive visualization or simulation into an active, self-optimizing closed-loop twin that dynamically enacts intelligent control policies on physical transportation systems.
 
+## 🎯 Digital Twins vs World Models
+
+While frequently used interchangeably, Digital Twins and World Models are fundamentally distinct paradigms governed by different architectural criteria.
+
+### 1. Digital Twin Criteria
+
+A system qualifies as a **Digital Twin** if it meets all of the following conditions:
+
+* **(i) Specific Representation:** It represents a specific physical entity rather than a generic class.
+* **(ii) Persistent Connection:** It maintains a bidirectional, persistent data connection to that physical counterpart.
+* **(iii) Lifecycle Coupling:** It is dynamically coupled to the entity's lifecycle.
+
+> *Note:* Without a physical counterpart, a digital twin cannot exist.
+
+### 2. World Model Criteria
+
+A system qualifies as a **World Model** if it meets the following criteria:
+
+* **(i) Learned Dynamics:** It learns a state transition function from data itself, expressed as $x_{t+1} = f(x_t, a_t)$, capturing how an environment evolves in response to actions.
+* **(ii) Predictive Planning:** It supports prediction and planning through imagined future states.
+* **(iii) Abstract Representations:** It operates on learned representations rather than relying exclusively on hand-crafted physics.
+
+> *Note:* A physical referent is entirely optional.
+
+---
+
+### Summary Comparison
+
+| Dimension | Digital Twin | World Model |
+| --- | --- | --- |
+| **Physical Referent** | Mandatory (A specific entity) | Optional |
+| **Data Connection** | Bidirectional and persistent | None required (operates on learned data/representations) |
+| **Core Function** | Lifecycle tracking and synchronization | State transition learning ($x_{t+1} = f(x_t, a_t)$) and imagined planning |
+
+---
+
 ## 📚 Core Architecture
 
 
