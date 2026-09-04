@@ -47,7 +47,7 @@ A system qualifies as a **World Model** if it meets the following criteria:
 | --- | --- | --- |
 | **Physical Referent** | Mandatory (A specific entity) | Optional |
 | **Data Connection** | Bidirectional and persistent | None required (operates on learned data/representations) |
-| **Core Function** | Lifecycle tracking and synchronization | State transition learning ($x_{t+1} = f(x_t, a_t)$) and imagined planning |
+| **Core Function** | Lifecycle tracking and synchronization | State transition learning ($$x_{t+1} = f(x_t, a_t)$$) and imagined planning |
 
 ---
 
