@@ -17,7 +17,7 @@ E**X**plainable **A**utonomous **C**ognitive **T**ransportation **D**igital **T*
 
 ## 🎯 Digital Twins vs World Models
 
-While sometimes are used interchangeably, Digital Twins and World Models are fundamentally distinct paradigms governed by different architectural criteria.
+While sometimes are misused interchangeably they are different concepts, Digital Twins and World Models are fundamentally distinct paradigms governed by different architectural criteria.
 
 ### 1. Digital Twin Criteria
 
