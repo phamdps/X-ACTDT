@@ -205,7 +205,7 @@ cognitive_transdt/
 
 ---
 
-## 📚 References & Related Literature (2025–2026)
+## 📚 Related Literature (2025–2026)
 
 1. **Digital Twin AI Lifecycles and Frameworks**
    * Research collaboration on Digital Twin AI. (2026). *Digital Twin AI: Opportunities and Challenges from Large Language Models*. arXiv. https://arxiv.org/html/2601.01321v1
@@ -228,3 +228,56 @@ cognitive_transdt/
 7. **Advanced Modeling and Trends in Digital Twins**
    * Yang, L., Luo, S., & Yu, L. (2025). Leveraging Large Language Models for Enhanced Digital Twin Modeling: Trends, Methods, and Challenges. *arXiv preprint arXiv:2503.xxxxx*. https://www.semanticscholar.org/paper/Leveraging-Large-Language-Models-for-Enhanced-Twin-Yang-Luo/b1f636a6ecc341c3f77060373f044feef50fe726
 
+
+## 📚 Additional References
+
+### 2026
+1. **A. Ali, R. Ali, M. Asad, L. Yang, T. Alsarhan, and X. Bai**, "Exploiting attention-driven weather-aware multimodal spatio-temporal fusion for urban traffic flow prediction," *Future Generation Computer Systems*, vol. 183, Jul. 2026.
+2. **Y. Fang, H. Miao, Y. Liang, L. Deng, Y. Cui, X. Zeng, Y. Xia, Y. Zhao, T. B. Pedersen, C. S. Jensen, X. Zhou, and K. Zheng**, "Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review," *IEEE Transactions on Knowledge and Data Engineering*, vol. 38, no. 3, pp. 2040–2063, 2026.
+3. **V. Hassija, T. Majumder, D. Roy, R. Piyush, and V. Chamola**, "The role of large language models (LLMs) in enhancing intelligent transportation systems: A survey," *Vehicular Communications*, vol. 58, Jun. 2026.
+4. **Q. Long, S. Liu, N. Cao, Z. Ren, X. Luo, W. Ju, C. Fang, Z. Zhu, H. Zhu, and Y. Zhou**, "A Survey of Large Language Models for Traffic Forecasting: Methods and Applications," *IEEE Transactions on Big Data*, vol. 12, pp. 1083–1101, Jan. 2026.
+
+### 2025
+5. **Y. Cao, H. Zhao, Y. Cheng, T. Shu, Y. Chen, G. Liu, G. Liang, J. Zhao, J. Yan, and Y. Li**, "Survey on Large Language Model-Enhanced Reinforcement Learning: Concept, Taxonomy, and Methods," *IEEE Transactions on Neural Networks and Learning Systems*, vol. 36, no. 6, pp. 9737–9757, 2025.
+6. **B. Fang, Z. Yang, and X. Di**, "TraveLLM: Could You Plan My Public Transit Alternatives in Face of a Network Disruption?" in *IEEE 28th International Conference on Intelligent Transportation Systems (ITSC)*, 2025, pp. 4711–4717.
+7. **B. Hu, K. Zhang, Y. Zhang, and Y. Ye**, "Adaptive multimodal fusion: dynamic attention allocation for intent recognition," in *Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI '25)*, 2025.
+8. **C. Hu, R. Niu, Y. Lin, B. Yang, H. Chen, B. Zhao, and X. Zhang**, "Probabilistic Trajectory Prediction of Vulnerable Road User Using Multimodal Inputs," *IEEE Transactions on Intelligent Transportation Systems*, vol. 26, no. 2, pp. 2679–2689, Feb. 2025.
+9. **D. Mahmud, H. Hajmohamed, S. Almentheri, S. Alqaydi, L. Aldhaheri, R. A. Khalil, and N. Saeed**, "Integrating LLMs With ITS: Recent Advances, Potentials, Challenges, and Future Directions," *IEEE Transactions on Intelligent Transportation Systems*, vol. 26, no. 5, pp. 5674–5709, 2025.
+10. **L. Yang, S. Luo, X. Cheng, and L. Yu**, "Leveraging Large Language Models for Enhanced Digital Twin Modeling: Trends, Methods, and Challenges," *arXiv preprint arXiv:2503.02167*, 2025.
+11. **Y. Yan, S. Cui, J. Liu, Y. Zhao, B. Zhou, and Y.-H. Kuo**, "Multimodal fusion for large-scale traffic prediction with heterogeneous retentive networks," *Information Fusion*, vol. 114, Feb. 2025.
+
+### 2024
+12. **X. Han, Z. Zhang, Y. Wu, X. Zhang, and Z. Wu**, "Event Traffic Forecasting with Sparse Multimodal Data," in *Proceedings of the 32nd ACM International Conference on Multimedia (MM '24)*, 2024, pp. 8855–8864.
+13. **D. Le, A. Yunusoglu, K. Tiwari, M. Isik, and I. C. Dikmen**, "Multimodal LLM for Intelligent Transportation Systems," *arXiv preprint arXiv:2412.11683*, 2024.
+14. **C. Liu, S. Yang, Q. Xu, Z. Li, C. Long, Z. Li, and R. Zhao**, "Spatial-Temporal Large Language Model for Traffic Prediction," in *IEEE 25th International Conference on Mobile Data Management (MDM)*, 2024, pp. 31–40.
+15. **Y. Xia, D. Dittler, N. Jazdi, H. Chen, and M. Weyrich**, "LLM experiments with simulation: Large Language Model Multi-Agent System for Simulation Model Parametrization in Digital Twins," in *IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA)*, 2024, pp. 1–4.
+16. **D. Xu, H. Peng, Y. Tang, and H. Guo**, "Hierarchical spatio-temporal graph convolutional neural networks for traffic data imputation," *Information Fusion*, vol. 106, Jun. 2024.
+17. **H. Yang, R. Wu, and W. Xu**, "TransCompressor: LLM-Powered Multimodal Data Compression for Smart Transportation," in *Proceedings of the 30th Annual International Conference on Mobile Computing and Networking (MobiCom '24)*, 2024, pp. 2335–2340.
+18. **H. Zhong, J. Wang, C. Chen, J. Wang, D. Li, and K. Guo**, "Weather Interaction-Aware Spatio-Temporal Attention Networks for Urban Traffic Flow Prediction," *Buildings*, vol. 14, p. 647, Feb. 2024.
+19. **S. Zhang, D. Fu, W. Liang, Z. Zhang, B. Yu, P. Cai, and B. Yao**, "TrafficGPT: Viewing, processing and interacting with traffic foundation models," *Transport Policy*, vol. 150, pp. 95–105, 2024.
+20. **Z. Zhang, Y. Sun, Z. Wang, Y. Nie, X. Ma, R. Li, P. Sun, and X. Ban**, "Large Language Models for Mobility Analysis in Transportation Systems: A Survey on Forecasting Tasks," *Transportation Research Record*, vol. 2680, pp. 756–774, 2024.
+21. **B. Zhou, J. Liu, S. Cui, and Y. Zhao**, "A Large-Scale Spatio-Temporal Multimodal Fusion Framework for Traffic Prediction," *Big Data Mining and Analytics*, vol. 7, no. 3, pp. 621–636, 2024.
+
+### 2023
+22. **T. Schick, J. Dwivedi-Yu, R. Dessì, R. Raileanu, M. Lomeli, L. Zettlemoyer, N. Cancedda, and T. Scialom**, "Toolformer: Language models can teach themselves to use tools," *Advances in Neural Information Processing Systems (NeurIPS)*, vol. 36, 2023.
+23. **X. Wang, Z. Zhu, G. Huang, X. Chen, and J. Jia**, "DriveDreamer: Towards Real-World Drive Scene Synthesis via World Models," *arXiv preprint arXiv:2309.09777*, 2023.
+24. **Z. Wang, Y. Zhao, X. Cheng, H. Huang, J. Liu, L. Tang, L. Li, Y. Wang, A. Yin, Z. Zhang, and Z. Zhao**, "Connecting multi-modal contrastive representations," in *Proceedings of the 37th International Conference on Neural Information Processing Systems (NeurIPS '23)*, 2023.
+25. **S. Wen et al.**, "Panacea: Panoramic and Controllable Video Generation for Autonomous Driving," *arXiv preprint arXiv:2311.16813*, 2023.
+
+### 2022
+26. **T. Kojima, S. S. Gu, M. Reid, Y. Matsuo, and Y. Iwasawa**, "Large language models are zero-shot reasoners," *Advances in Neural Information Processing Systems (NeurIPS)*, vol. 35, pp. 22199–22213, 2022.
+27. **X. Mo, Z. Huang, Y. Xing, and C. Lv**, "Multi-Agent Trajectory Prediction With Heterogeneous Edge-Enhanced Graph Attention Network," *IEEE Transactions on Intelligent Transportation Systems*, vol. 23, no. 7, pp. 9554–9567, Jul. 2022.
+28. **L. Ouyang, J. Wu, X. Jiang, D. Almeida, C. Wainwright, P. Mishkin, C. Zhang, S. Agarwal, K. Slama, A. Ray, et al.**, "Training language models to follow instructions with human feedback," *Advances in Neural Information Processing Systems (NeurIPS)*, vol. 35, pp. 27730–27744, 2022.
+29. **J. Wei, Y. Tay, R. Bommasani, A. Chowdhery, Q. V. Dai, X. Zou, A. W. Yu, S. Zheng, D. Zhou, X. Ma, et al.**, "Emergent abilities of large language models," *Transactions on Machine Learning Research*, 2022.
+30. **J. Wei, X. Wang, D. Schuurmans, M. Bosma, F. Xia, E. Chi, Q. V. Le, D. Zhou, et al.**, "Chain-of-thought prompting elicits reasoning in large language models," *Advances in Neural Information Processing Systems (NeurIPS)*, vol. 35, pp. 24824–24837, 2022.
+
+### 2020
+31. **T. Brown, B. Mann, N. Ryder, M. Subbiah, J. D. Kaplan, P. Dhariwal, A. Neelakantan, P. Shyam, G. Sastry, A. Askell, et al.**, "Language models are few-shot learners," *Advances in Neural Information Processing Systems (NeurIPS)*, vol. 33, pp. 1877–1901, 2020.
+32. **S. Ryu, D. Kim, and J. Kim**, "Weather-Aware Long-Range Traffic Forecast Using Multi-Module Deep Neural Network," *Applied Sciences*, vol. 10, no. 6, p. 1938, 2020.
+
+### 2019 & Earlier
+33. **S. Guo, Y. Lin, N. Feng, C. Song, and H. Wan**, "Attention based spatial-temporal graph convolutional networks for traffic flow forecasting," in *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI '19)*, 2019, art. 114.
+34. **P. Zheng, T.-Y. Lin, C.-H. Chen, and L. P. Khoo**, "Applications of digital twin technology in industrial product development: a review," *The International Journal of Advanced Manufacturing Technology*, vol. 105, no. 1, pp. 2621–2637, 2019.
+35. **F. Tao, F. Sui, A. Liu, Q. Qi, M. Zhang, B. Song, Z. Guo, S. S. Lu, and A. Y. Nee**, "Digital twin-driven product design, manufacturing and service with big data," *The International Journal of Advanced Manufacturing Technology*, vol. 94, no. 9, pp. 3563–3576, 2018.
+36. **P. F. Christiano, J. Leike, T. Brown, M. Martic, S. Legg, and D. Amodei**, "Deep reinforcement learning from human preferences," *Advances in Neural Information Processing Systems (NeurIPS)*, vol. 30, 2017.
+37. **M. Grieves and J. Vickers**, "Digital twin: manufacturing excellence through virtual factory replication," in *Forming the Future*, Springer, 2014, pp. 85–100.
